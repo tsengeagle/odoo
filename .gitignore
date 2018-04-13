@@ -19,6 +19,8 @@ openerp/filestore
 # maintenance migration scripts
 openerp/addons/base/maintenance
 
+addons_custom/addons_pohai/
+
 # generated for windows installer?
 install/win32/*.bat
 install/win32/meta.py
