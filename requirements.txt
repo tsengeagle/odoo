@@ -44,4 +44,3 @@ pysftp
 httplib2
 dime
 
-pytz

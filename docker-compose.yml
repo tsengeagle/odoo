@@ -8,3 +8,5 @@ services:
       - "POSTGRES_DB=odoo"
       - "POSTGRES_USER=odoo"
       - "POSTGRES_PASSWORD=odoo"
+
+
