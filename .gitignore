@@ -1,3 +1,6 @@
+venv/
+filestore/
+
 # sphinx build directories
 _build/
 
