@@ -23,6 +23,7 @@ openerp/filestore
 openerp/addons/base/maintenance
 
 addons_custom/addons_pohai/
+addons_hrp/
 
 # generated for windows installer?
 install/win32/*.bat
